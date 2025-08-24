@@ -14,7 +14,7 @@ function TextInput() {
         type="text"
         value={ID}
         onChange={handleChange}
-        placeholder="Type something..."
+        placeholder="Enter UID"
         className="w-72 px-4 py-2 border rounded-lg focus:outline-none border-gray-300"
       />
     </div>
